@@ -22,7 +22,6 @@ void decode() {
 		}
 	}
 	cout << ans << "\n";
-		
 }
 int main() {
 	ios::sync_with_stdio(false);
